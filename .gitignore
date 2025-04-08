@@ -20,6 +20,10 @@
 .DS_Store
 *.pem
 
+# SSH keys and PEM files
+*.pem
+*.key
+
 # debug
 npm-debug.log*
 yarn-debug.log*
